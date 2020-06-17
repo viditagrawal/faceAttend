@@ -1,0 +1,6 @@
+framework module Pods_faceLogin {
+  umbrella header "Pods-faceLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
